@@ -16,15 +16,10 @@
 ​       Aplicações utilizadas :gear:
 
 - Java 
-
-- Database:  H2
-
 - Gerenciador de Dependências: Maven
-
 - IDE: Intellij community
-
 - Project Lombok
-
+- Database H2:  http://localhost:8080/h2-eventos
 -  Link da aplicação no Swagger: http://localhost:8080/swagger-ui.html
 
   
